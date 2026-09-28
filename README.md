@@ -1,1 +1,1 @@
-# Discount-price-calculator
+# Discount-price-calculator readme

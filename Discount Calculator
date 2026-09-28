@@ -4,7 +4,7 @@ int main()
 {
     float price, discount, savings, final_price;
 
-    printf("Enter original item price: ");
+    printf("Enter an original item price: ");
     scanf("%f", &price);
 
     printf("Enter discount percentage: ");
